@@ -14,3 +14,4 @@ python main.py
 
 - Running Python
 - Basic print statements
+- Defining a simple `main()` entry point
